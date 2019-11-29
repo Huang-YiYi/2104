@@ -25,5 +25,4 @@ MPU6050 -- MSP432
 
 
 
-
-<img src="https://github.com/Huang-YiYi/2104/tree/master/Images/IMG_7213" alt="">
+<img src="https://github.com/Huang-YiYi/2104/tree/master/Images/IMG_7213.JPG" width="200" title="">
