@@ -20,9 +20,4 @@ MPU6050 -- MSP432
   XDA  
   ADO  
   INT  
-
-
-
-
-
-<img src="https://github.com/Huang-YiYi/2104/tree/master/Images/IMG_7213.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7213.JPG" width="200" title="">
