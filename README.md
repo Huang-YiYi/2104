@@ -10,9 +10,9 @@
 
 
 
-<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7213.JPG" width="200" title="">
-<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7214.JPG" width="200" title="">
-<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7215.JPG" width="200" title="">
-<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7216.JPG" width="200" title="">
-<img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7217.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images%20of%20mounted%20device%20and%20Test%20Case/IMG_7213.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images%20of%20mounted%20device%20and%20Test%20Case/IMG_7214.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images%20of%20mounted%20device%20and%20Test%20Case/IMG_7215.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images%20of%20mounted%20device%20and%20Test%20Case/IMG_7216.JPG" width="200" title="">
+<img src="https://github.com/Huang-YiYi/2104/blob/master/Images%20of%20mounted%20device%20and%20Test%20Case/IMG_7217.JPG" width="200" title="">
 
