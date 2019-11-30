@@ -1,25 +1,15 @@
 # ICT2104_STISTraight
-Sensors Used:  
-MPU6050 6-axis Accelerometer/Gyroscope
-Hc-05
 
-Motor Used:
-Virabtion Motor
+<h2>How to Setup</h2>
+<p>1. Install APK from Andriod APK folder</p>
+<p>2. Setup HC-05, 2x MPU6050 and Vibration motor onto MSP432</p>
+<p>3. Connect phone to HC-05, pairing password is 1234</p>
+<p>4. Good to go!</p>
 
-## Installation Instructions
-The project is a CCS Workspace. So just open it up in CCS.
 
-### MPU6050 schematic
-MPU6050 -- MSP432
 
-  VCC   <-->  P6.0 For Power Cycling. VCC is fine too  
-  GND   <-->  GND  
-  SCL   <-->  P6.5 w/ 10k Pull Up Resistor  
-  SDA   <-->  P6.4 w/ 10k Pull Up Resistor  
-  XCA  
-  XDA  
-  ADO  
-  INT  
+
+
 <img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7213.JPG" width="200" title="">
 <img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7214.JPG" width="200" title="">
 <img src="https://github.com/Huang-YiYi/2104/blob/master/Images/IMG_7215.JPG" width="200" title="">
